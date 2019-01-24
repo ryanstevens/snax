@@ -1,0 +1,18 @@
+{
+  "name": "snax",
+  "version": "1.0.0",
+  "description": "Snacks are the best, this gives you suggestions on what to snack on next!",
+  "main": "index.js",
+  "bin": {
+    "snax": "bin/snax.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanstevens/snax.git"
+  },
+  "author": "Ryan Stevens",
+  "license": "MIT"
+}

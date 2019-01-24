@@ -1,0 +1,2 @@
+const snax = require('../index');
+
